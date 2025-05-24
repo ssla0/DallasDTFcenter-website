@@ -3,7 +3,7 @@
 **Dallas DTF Center** is a modern, responsive website built for a specialized textile printing business based in Dallas, Texas.  
 It features a clean layout, professional branding, and streamlined user experience designed to support both product presentation and customer conversion.
 
-![Website Screenshot](screenshot.png)
+![Dallas DTF Center Screenshot](dallasdtfcenter.png)
 
 🔗 **Live Site:** [https://dallasdtfcenter.com](https://dallasdtfcenter.com)
 
@@ -33,12 +33,6 @@ The goal of this project was to establish a strong online presence for a local b
 - Applying clean visual hierarchy for service-oriented sites  
 - Planning responsive behavior across devices  
 - Working with real business requirements in a web design context
-
----
-
-## 📷 Preview
-
-![Mobile Preview](mobile-screenshot.png)
 
 ---
 
