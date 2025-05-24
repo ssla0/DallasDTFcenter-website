@@ -39,4 +39,4 @@ This website was built to support a local business in expanding its online prese
 
 ---
 
-> 🚀 This site is part of my practical portfolio. Feel free to fork, explore, or get in touch for collaboration!
+> 🚀 You're welcome to explore the project, share feedback, or reach out if you'd like to collaborate on similar projects!
